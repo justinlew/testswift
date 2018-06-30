@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "9037cdcaefe93606119b8f685c225127"
-build_time: [1530329900, 680024000]
-inputs:
-  "/Users/justinlew/Documents/iOS_tutorial/mealifyv2/mealifyv2/ChartsViewController.swift": [1530329900, 0]
-  "/Users/justinlew/Documents/iOS_tutorial/mealifyv2/mealifyv2/ViewController.swift": [1530155430, 0]
-  "/Users/justinlew/Documents/iOS_tutorial/mealifyv2/mealifyv2/AppDelegate.swift": [1530157333, 0]
